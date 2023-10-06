@@ -1,0 +1,15 @@
+{
+  "name": "win12",
+  "version": "1.0.0",
+  "description": "> **🎉🎉Windows 12 网页版一周岁生日快乐！`o(^o^)o`** > **向在座的各位的支持表示诚挚的感谢！**",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^26.3.0"
+  }
+}
