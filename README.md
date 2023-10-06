@@ -6,7 +6,8 @@
 
 [win12网页版](https://github.com/tjy-gitnub/win12)
 
-调试```
+调试
+```
 npm --save-dev electron
 npm run start
 ```
